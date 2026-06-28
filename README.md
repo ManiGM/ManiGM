@@ -24,7 +24,7 @@
 - 💡 Passionate about **Performance Optimization, Accessibility (WCAG), and Clean Architecture**
 - 💳 Hands-on experience integrating **HDFC, CCAvenue (ICICI) & Razorpay** payment gateways at UI level
 - 🌍 Built enterprise apps across **10+ industries**
-- 📫 Reach me: **ganeswaramanikantakumar@gmail.com**
+- 📫 Reach me: **ganeswaramanikantakumar@gmail.com**,
 
 ---
 
@@ -137,8 +137,6 @@ Kakinada Institute of Engineering and Technology · 2019
 ---
 
 <div align="center">
-
----
 
 *⭐ From [Mani](https://github.com/ManiGM) — Built with passion for clean, scalable frontend code*
 
