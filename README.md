@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mani-gm-33b8262b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManiGM)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeswaramanikantakumar@gmail.com)
-[![Profile Views](https://visitcount.itsvg.in/api?id=ManiGM&icon=6&color=1)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -84,9 +83,9 @@
 
 <div align="center">
 
-| GitHub Stats | Streak Stats |
+| GitHub Stats |
 |:---:|:---:|
-| ![](https://github-readme-stats.vercel.app/api?username=ManiGM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) | ![](https://nirzak-streak-stats.vercel.app/?user=ManiGM&theme=tokyonight&hide_border=false) |
+| ![](https://github-readme-stats.vercel.app/api?username=ManiGM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) |
 
 </div>
 
