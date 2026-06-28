@@ -98,16 +98,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=ManiGM&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <div align="center">
@@ -148,11 +138,8 @@ Kakinada Institute of Engineering and Technology · 2019
 
 <div align="center">
 
-### 💬 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 
-*⭐ From [ManiGM](https://github.com/ManiGM) — Built with passion for clean, scalable frontend code*
+*⭐ From [Mani](https://github.com/ManiGM) — Built with passion for clean, scalable frontend code*
 
 </div>
