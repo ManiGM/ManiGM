@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/ganeswara-manikanta-kumar-joga-33b8262b8">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/ManiGM">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
   <a href="https://ganeswara.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
