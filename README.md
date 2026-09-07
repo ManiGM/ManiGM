@@ -5,7 +5,7 @@
 ### 🚀 Senior Software Associate · Frontend Developer · React.js Specialist
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=5.5%2B+Years+of+Frontend+Excellence;React.js+%7C+TypeScript+%7C+Redux;Building+Scalable+Enterprise+UIs;AI-Powered+%7C+Healthcare+%7C+Maritime+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=5.8%2B+Years+of+Frontend+Excellence;React.js+%7C+TypeScript+%7C+Redux;Building+Scalable+Enterprise+UIs;AI-Powered+%7C+Healthcare+%7C+Maritime+Platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
