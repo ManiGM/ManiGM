@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:FF6B35&height=180&section=header&text=Hi%20There!%20I'm%20Mani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Associate%20%C2%B7%20Frontend%20Developer%20%C2%B7%20React.js%20Specialist&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <p>
