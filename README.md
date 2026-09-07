@@ -1,11 +1,9 @@
 <div align="center">
 
-# 👋 Hi, I'm Ganeswara Manikanta Kumar (Mani)
-
-### 🚀 Senior Software Associate · Frontend Developer · React.js Specialist
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:FF6B35&height=180&section=header&text=Hi%20There!%20I'm%20Mani&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Associate%20%C2%B7%20Frontend%20Developer%20%C2%B7%20React.js%20Specialist&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=5.8%2B+Years+of+Frontend+Excellence;React.js+%7C+TypeScript+%7C+Redux;Building+Scalable+Enterprise+UIs;AI-Powered+%7C+Healthcare+%7C+Maritime+Platforms" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=5.8%2B+Years+of+Frontend+Excellence;React.js+%7C+TypeScript+%7C+Redux+Toolkit;Building+Scalable+Enterprise+UIs;AI-Powered+%7C+Healthcare+%7C+Maritime+Platforms" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,26 +16,26 @@
   <a href="mailto:ganeswaramanikantakumar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="./Ganeswara_Manikanta_Kumar_Resume.pdf" download>
+  <a href="./Ganeswara_Manikanta_Kumar_Resume_UI_ALGOLIA.pdf" download>
     <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
 </p>
 
 </div>
 
-
----
+<br/>
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently at *XRG Consulting Pvt Ltd* — building AI-powered configurable enterprise platforms
-- 🏗️ Delivered projects across *Elder Care, Maritime Healthcare, ERP, and AI domains*
-- 💡 Passionate about *Performance Optimization, Accessibility (WCAG), and Clean Architecture*
-- 💳 Hands-on experience integrating *HDFC, CCAvenue (ICICI) & Razorpay* payment gateways at UI level
-- 🌍 Built enterprise apps across *10+ industries*
-- 📫 Reach me: **ganeswaramanikantakumar@gmail.com*,
+- 🔭 Currently at **XRG Consulting Pvt Ltd** — building AI-powered, configurable enterprise platforms
+- 🏗️ Delivered projects across **Elder Care, Maritime Healthcare, ERP, and AI domains**
+- 🧩 Engineered reusable component libraries powering **50+ enterprise products** across **10+ industries**
+- 💡 Passionate about **Performance Optimization, Accessibility (WCAG), and Clean Architecture**
+- 💳 Hands-on experience integrating **HDFC, CCAvenue (ICICI) & Razorpay** payment gateways at UI level
+- 🏅 **Certified SAFe® 5 Practitioner** — Scaled Agile, Inc.
+- 📫 Reach me: **ganeswaramanikantakumar@gmail.com**
 
----
+<br/>
 
 ## 🌐 Tech Stack
 
@@ -52,14 +50,37 @@
 ### ⚛️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redux%20toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT%20Auth-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+</p>
+
+### 🎨 UI & Styling
+<p>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"/>
   <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🏛️ Architecture & Practices
+<p>
+  <img src="https://img.shields.io/badge/Multi--Tenant%20Architecture-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC%20Architecture-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RBAC-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Accessibility%20(WCAG)-334155?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile%2FScrum-334155?style=for-the-badge"/>
+</p>
+
+### 🔎 CMS & Search
+<p>
+  <img src="https://img.shields.io/badge/contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white"/>
+  <img src="https://img.shields.io/badge/algolia-5468FF?style=for-the-badge&logo=algolia&logoColor=white"/>
 </p>
 
 ### 🛠️ Dev Tools & Testing
@@ -70,7 +91,6 @@
   <img src="https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
   <img src="https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 </p>
 
 ### 🚀 Deployments
@@ -96,7 +116,23 @@
   <img src="https://img.shields.io/badge/CCAvenue%20(ICICI)-F58220?style=for-the-badge&logo=icici-bank&logoColor=white"/>
 </p>
 
----
+<br/>
+
+## 💪 Key Strengths
+
+<div align="center">
+
+| Strength | Focus |
+|:---|:---|
+| 🏛️ **Enterprise React Architecture** | Designing scalable component trees & state management patterns for large apps |
+| 🤖 **AI & Low-Code Platforms** | End-to-end ownership of configurable, AI-driven enterprise application builders |
+| 🧩 **UI Component Libraries** | Reusable, consistent component systems across 50+ enterprise products |
+| ⚡ **Performance & Accessibility** | Optimising load times, rendering, and WCAG compliance across all projects |
+| 👥 **Team Leadership** | Code reviews, standards enforcement, and mentoring in cross-functional Agile teams |
+
+</div>
+
+<br/>
 
 ## 💼 Work Experience
 
@@ -110,7 +146,7 @@
 
 </div>
 
----
+<br/>
 
 ## 🚀 Key Projects
 
@@ -118,26 +154,34 @@
 
 | 🔖 Project | 📝 Description |
 |:---|:---|
-| 🤖 *AI-Powered Enterprise App Builder* | Configurable enterprise platform with RBAC, workflows, dashboards & user management |
-| 👴 *Anvayaa KinCare* | Caregiver management platform for elder care — scheduling, tracking & reporting |
-| 🌿 *Enviro* | Elder care services web app in collaboration with Anvayaa |
-| 🚢 *Global eCare* | Maritime medical management & DG-certification compliance system |
-| 🏭 *ERP Low-Code/No-Code Platform* | Visual configuration-based ERP serving 10+ industries |
-| 💰 *Budget Scheduling & Estimation* | Financial tracking, cost planning & reporting tool |
+| 🤖 **AI-Powered Enterprise App Builder** | Configurable enterprise platform with RBAC, workflows, dashboards & user management |
+| 👴 **Anvayaa KinCare** | Caregiver management platform for elder care — scheduling, tracking & reporting |
+| 🌿 **Enviro** | Elder care services web app in collaboration with Anvayaa |
+| 🚢 **Global eCare** | Maritime medical management & DG-certification compliance system |
+| 🏭 **ERP Low-Code/No-Code Platform** | Visual configuration-based ERP serving 10+ industries |
+| 💰 **Budget Scheduling & Estimation** | Financial tracking, cost planning & reporting tool |
 
 </div>
 
----
+<br/>
+
+## 🏅 Certifications
+
+- **Certified SAFe® 5 Practitioner** — SAFe by Scaled Agile, Inc.
+
+<br/>
 
 ## 🎓 Education
 
-*B.Tech – Electronics & Communication Engineering*
+**B.Tech – Electronics & Communication Engineering**
 Kakinada Institute of Engineering and Technology · 2019
 
----
+<br/>
 
 <div align="center">
 
 ⭐ From [Mani](https://github.com/ManiGM) — Built with passion for clean, scalable frontend code
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,100:2563EB&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
