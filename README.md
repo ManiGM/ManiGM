@@ -98,22 +98,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=ManiGM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true) 
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManiGM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
-
-</div> -->
-
----
-
 ## 💼 Work Experience
 
 <div align="center">
